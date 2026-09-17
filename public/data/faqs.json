@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "category": "Portal & IT",
+    "question": "How do I register for an account on StudentHub?",
+    "answer": "Click on the 'Register' button located in the top navigation bar. Fill out all required fields including your full name, institutional email address, 10-digit mobile number, program/course, current academic year, and gender. Choose a strong password meeting our complexity guidelines, accept the university terms, and submit your registration.",
+    "helpfulCount": 142
+  },
+  {
+    "id": 2,
+    "category": "Portal & IT",
+    "question": "What should I do if I forget my StudentHub account password?",
+    "answer": "Navigate to the Login page and click on 'Forgot Password?'. Enter your registered university email. A secure password reset token link will be dispatched to your inbox allowing you to choose a new password within 15 minutes.",
+    "helpfulCount": 89
+  },
+  {
+    "id": 3,
+    "category": "Events & Clubs",
+    "question": "How do I register for campus hackathons and cultural events?",
+    "answer": "Navigate to the 'Events' section from the top navigation. Browse or search through upcoming events by category (Technical, Cultural, Sports, Workshop, Seminar). Click on any event card to view full details, schedule, and venue, then click the 'Register / RSVP' button to claim your confirmed e-ticket.",
+    "helpfulCount": 215
+  },
+  {
+    "id": 4,
+    "category": "Events & Clubs",
+    "question": "Can I cancel my event RSVP if I have an exam or emergency?",
+    "answer": "Yes. Open your Student Dashboard, scroll to 'My Event Registrations', select the registered event, and click 'Cancel Registration'. Your seat will automatically be released back to other students on the waitlist.",
+    "helpfulCount": 67
+  },
+  {
+    "id": 5,
+    "category": "Academics",
+    "question": "How can I update my academic profile and personal contact details?",
+    "answer": "Log into your account and navigate to the 'Profile' tab. You can update your phone number, technical skills, biography, and extracurricular interests. Institutional details such as your student roll number and enrolled degree require Dean's office verification via the Contact form.",
+    "helpfulCount": 104
+  },
+  {
+    "id": 6,
+    "category": "Academics",
+    "question": "What is the minimum attendance threshold required to appear for semester exams?",
+    "answer": "As per university academic regulations, students must maintain a minimum cumulative attendance of 75% across all lecture and laboratory courses. Medical leaves verified by the campus health center may grant an exemption of up to 10%.",
+    "helpfulCount": 188
+  },
+  {
+    "id": 7,
+    "category": "Portal & IT",
+    "question": "How do I toggle between Dark Mode and Light Mode on StudentHub?",
+    "answer": "Click the Sun/Moon theme toggle icon in the top header. StudentHub saves your theme choice immediately in your browser's local storage so your preferred theme is retained across all your sessions and page visits.",
+    "helpfulCount": 78
+  },
+  {
+    "id": 8,
+    "category": "Admissions",
+    "question": "Where can I download the current semester syllabus and academic calendar?",
+    "answer": "The academic calendar is accessible from your Student Dashboard under 'Academic Resources'. Course syllabi are updated each semester by the departmental board of studies and can be downloaded as PDF documents.",
+    "helpfulCount": 94
+  },
+  {
+    "id": 9,
+    "category": "Fees & Scholarships",
+    "question": "How do I apply for merit-based scholarships or financial aid?",
+    "answer": "Merit scholarship applications open during the first month of each academic year for students securing a CGPA of 8.5 and above. Visit the Financial Aid portal through the Dashboard quick links or submit a query to the administration office.",
+    "helpfulCount": 133
+  },
+  {
+    "id": 10,
+    "category": "Fees & Scholarships",
+    "question": "How can I download tuition fee receipts and payment challans?",
+    "answer": "Head to your Student Dashboard under 'Fee Receipts' to review semester installment history, download official stamped receipts, or view pending hostel and tuition dues.",
+    "helpfulCount": 82
+  },
+  {
+    "id": 11,
+    "category": "Events & Clubs",
+    "question": "How can student clubs propose and host a new event on StudentHub?",
+    "answer": "Club presidents and faculty coordinators can submit an event proposal through the Admin Event Management section or contact the Student Activity Council with the proposed schedule, venue requirements, and budget sheet.",
+    "helpfulCount": 61
+  },
+  {
+    "id": 12,
+    "category": "Portal & IT",
+    "question": "How does Role-Based Access Control (RBAC) work in StudentHub?",
+    "answer": "StudentHub provides segregated permissions for Students and Administrators. Students access personalized dashboards, events, profiles, and feedback, while Administrators have access to full Student CRUD, Event CRUD, metrics, and report exports.",
+    "helpfulCount": 120
+  },
+  {
+    "id": 13,
+    "category": "Academics",
+    "question": "How do I submit feedback about a course or faculty member?",
+    "answer": "Click the 'Feedback' link in the navigation or dashboard. Select your course category, provide a rating between 1 and 5 stars, write your feedback notes, and submit. All feedback is recorded for quality improvement.",
+    "helpfulCount": 97
+  },
+  {
+    "id": 14,
+    "category": "Admissions",
+    "question": "How do I request an official bonafide certificate or transcript?",
+    "answer": "Use the 'Contact Admin' form on StudentHub and select 'Bonafide Certificate / Transcript Request' as the subject. The administrative registrar office will process and issue your digital certificate within 48 business hours.",
+    "helpfulCount": 73
+  },
+  {
+    "id": 15,
+    "category": "Portal & IT",
+    "question": "Is StudentHub mobile-friendly and accessible?",
+    "answer": "Yes! StudentHub is built using responsive CSS Grid, Flexbox, accessible semantic HTML5 (<header>, <nav>, <main>, <section>, <article>, <footer>), ARIA attributes, skip-to-content links, and touch-optimized components.",
+    "helpfulCount": 112
+  },
+  {
+    "id": 16,
+    "category": "Events & Clubs",
+    "question": "Are participation certificates provided for attending technical workshops?",
+    "answer": "Yes, all verified attendees of campus workshops, hackathons, and guest seminars receive a digitally verifiable certificate of completion signed by the organizing department and university dean.",
+    "helpfulCount": 156
+  }
+]
